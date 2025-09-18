@@ -1,0 +1,91 @@
+p {
+     font-family: Arial;
+   }
+   
+  .latest-info {
+    color: orangered;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .product-name {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 0;
+  }
+
+  .features {
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 0;
+  }
+
+  .product-price {
+    color: gray;
+    text-align: center;
+    margin-top: 8px;
+  }
+ 
+  .buy-button {
+    background-color: royalblue;
+    border: none;
+    color: white;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 30px;
+    margin-left: 45%;
+    margin-bottom: 50px;
+  }
+  
+  .stock-price {
+    font-size: 27px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+ 
+  .currency {
+    font-size: 15px;
+    color: grey;
+    font-weight: normal;
+  }
+  
+  .profit-stats {
+    color: green;
+    margin-top: 6px;
+    margin-bottom: 0;
+  }
+  
+  .loss-stats {
+    color: grey;
+    margin-top: 8px;
+  }
+  
+  .loss {
+    color: red;
+  }
+  
+  .account-info {
+    margin-bottom: 0;
+  }
+  
+  .account-name {
+    font-weight: bold;
+  }
+  
+  .user-name {
+    color: gray;
+  }
+ 
+  .post-intro {
+    margin-top: 6px;
+  }
+  
+  .user-account {
+    color: dodgerblue;
+  }
